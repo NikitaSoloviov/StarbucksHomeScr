@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ic_home"
+        android:icon="@drawable/icons8_home_50"
+        android:title="@string/home">
+    </item>
+
+    <item
+        android:id="@+id/ic_scan"
+        android:icon="@drawable/qr"
+        android:title="@string/scan">
+    </item>
+
+    <item
+        android:id="@+id/ic_order"
+        android:icon="@drawable/paper_cup"
+        android:title="@string/order">
+    </item>
+
+    <item
+        android:id="@+id/ic_Gift"
+        android:icon="@drawable/gift"
+        android:title="@string/gift">
+    </item>
+
+    <item
+        android:id="@+id/ic_Stores"
+        android:icon="@drawable/placeholder_filled_point"
+        android:title="@string/stores">
+    </item>
+
+</menu>
